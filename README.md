@@ -170,7 +170,7 @@ The purpose is to demonstrate:
 ## Documentation
 
 * [My Contributions](docs/contributions.md)
-* Architecture documentation — coming soon
+* [Architecture documentation](docs/architecture.md)
 * Technical deep dives — coming soon
 
 ## Technologies & Concepts
